@@ -34,7 +34,7 @@ def calculate(user_input):
         if op == "+":
             result = num1 + num2
         elif op == "-":
-            result = num1 - num2  # Fixed: previously it was num1 + num2
+            result = num1 - num2 
         elif op == "*":
             result = num1 * num2
         elif op == "/":
